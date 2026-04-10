@@ -48,5 +48,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrochagas004-droid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrochagas004-droid&layout=compact&theme=dracula"/>
+</p>
 
 ###
